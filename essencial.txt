@@ -28,3 +28,6 @@ git sow (numero identificador)
 
 Informações de tudo oq aconteceu
 
+git diff
+
+Usar antes de commitar para verificar alterações
