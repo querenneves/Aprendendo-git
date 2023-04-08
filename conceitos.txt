@@ -11,3 +11,8 @@ git checkout nomedabranch
 
 Deletando branch
 git branch -D nomedabranch
+
+Unindo com Rebase
+
+git nomebranch rebase-branch
+
