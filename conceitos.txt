@@ -1,0 +1,13 @@
+Trabalhando com branch
+
+Criando Branch
+git checkout -b nomedabranch
+
+Mostrar branch 
+git branch
+
+Alternar entre branch 
+git checkout nomedabranch
+
+Deletando branch
+git branch -D nomedabranch
