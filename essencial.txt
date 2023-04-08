@@ -53,6 +53,6 @@ Manda commit e vai voltar os arquivo para antes da fila
 git reset --hard
 Mata tudo o que foi feito no commit
 
-
+Teste para alterações
 
 
