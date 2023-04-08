@@ -44,3 +44,13 @@ Retorna arquivo para antes da edição
 git reser HEAD nomedoarquivo
 
 Comando para retirar ultima ateração feita
+
+git reset --soft --mixed --hard
+git reset --soft
+Pega modificações e voltar commit com arquivo na fila com a modificação pronta para novo commit
+git reset --mixed
+Manda commit e vai voltar os arquivo para antes da fila
+git reset --hard
+Mata tudo o que foi feito no commit
+
+
