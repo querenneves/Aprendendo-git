@@ -37,4 +37,6 @@ git commit -am "adit essencial"
 Comando para commitar arquivo exitente ao qual foi editado apenas.
 
 
-Teste para edição
+git checkout nomedoarquivo
+
+Retorna arquivo para antes da edição
