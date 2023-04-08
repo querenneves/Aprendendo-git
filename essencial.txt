@@ -36,7 +36,6 @@ git commit -am "adit essencial"
 
 Comando para commitar arquivo exitente ao qual foi editado apenas.
 
-
 git checkout nomedoarquivo
 
 Retorna arquivo para antes da edição
@@ -53,6 +52,6 @@ Manda commit e vai voltar os arquivo para antes da fila
 git reset --hard
 Mata tudo o que foi feito no commit
 
-Teste para alterações
+
 
 
