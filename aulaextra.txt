@@ -1,0 +1,53 @@
+git stash 
+
+guarda modificações da branch
+
+git stash apply 
+
+guarda mudanças
+
+git stash list 
+
+Mostra stash guardados
+
+git stash clear 
+
+Limpa tudo que estiver no stash
+
+Criando atalhos
+
+git config --global alias.s (nome do atalho) status
+
+Guardou o S para comando de status
+
+Trabalhando com tags
+
+Criando tag
+git tag -a 1.0.0 -m "Readme finalizado"
+
+Subindo tag
+git push origin master --tags
+
+Reverter mudanças e guardar ainda para checagem no historico
+
+git log 
+
+Pegar identificação do log
+
+git revert identificaçãodolog
+
+Reverte commit e apagou, porem ainda guarda para resgatar e editar posteriormente.
+
+
+Apagando tags e branches
+
+Apagando tag
+g tag -d numerotag
+
+Apos subir edição
+
+git push origin numerotag
+
+O mesmo é possivel com brach
+
+
