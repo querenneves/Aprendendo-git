@@ -1,0 +1,30 @@
+Aulas do git - Essencial
+
+git log --decorate
+
+Info, branche para qual branche se aconteceu marge ou testes
+
+git log --author="queren"
+
+Info para filtrar autor
+
+git shortlog
+
+Mostra autores, quantos commits realizaram e qual foram. (Colaboradores)
+
+git shortlog -sn
+
+Mostra quantidade de commits de cada autor
+
+git log --graph
+
+Mostra em forma grafica oq acontece com os branchs e versões
+
+git log
+
+Pegar hash (numero identificador)
+
+git sow (numero identificador)
+
+Informações de tudo oq aconteceu
+
