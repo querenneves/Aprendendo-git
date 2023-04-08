@@ -35,3 +35,6 @@ Usar antes de commitar para verificar alterações
 git commit -am "adit essencial"
 
 Comando para commitar arquivo exitente ao qual foi editado apenas.
+
+
+Teste para edição
