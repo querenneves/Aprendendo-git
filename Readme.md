@@ -1,3 +1,3 @@
 Github
 
-Arquivo da aula de Git e GitHub para iniciantes
+Arquivo da aula de Git e GitHub para iniciantes com a Udemy
