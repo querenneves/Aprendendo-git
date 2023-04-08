@@ -40,3 +40,7 @@ Comando para commitar arquivo exitente ao qual foi editado apenas.
 git checkout nomedoarquivo
 
 Retorna arquivo para antes da edição
+
+git reser HEAD nomedoarquivo
+
+Comando para retirar ultima ateração feita
